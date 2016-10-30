@@ -35,17 +35,17 @@ Android开发---卫清才
 专业技能
 
 - Android
-- 能熟练使用Android四大组件和基本控件，了解自定义View及touch事件分发。
-- 了解并能熟练的使用流行的开源框架Volley，Picasso，RxJava等
-- 初步了解一些Android的机制和原理，如Handler+Message+Looper
+ - 能熟练使用Android四大组件和基本控件，了解自定义View及touch事件分发。
+ - 了解并能熟练的使用流行的开源框架Volley，Picasso，RxJava等
+ - 初步了解一些Android的机制和原理，如Handler+Message+Looper
 - Java
-- 熟练使用java编程，了解常见的基础类库
-- 熟练使用面向对象编程，了解常见的数据结构
-- 了解单例模式，工厂模式，观察者模式等基础的设计模式
+ - 熟练使用java编程，了解常见的基础类库
+ - 熟练使用面向对象编程，了解常见的数据结构
+ - 了解单例模式，工厂模式，观察者模式等基础的设计模式
 - 其他
-- 了解TCP/IP，Socket相关知识，有良好的计算机网络基础
-- 英语四级
-- 思科网络工程师认证(CCNA)
+ - 了解TCP/IP，Socket相关知识，有良好的计算机网络基础
+ - 英语四级
+ - 思科网络工程师认证(CCNA)
 
 ---
 
