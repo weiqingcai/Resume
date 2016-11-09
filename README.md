@@ -4,7 +4,7 @@
 - 本科/中北大学/网络工程
 - 手机:18435138623
 - Email:wqc_work@163.com
-- 技术博客:WQC_CSDN(访问量30000+，多篇文章被CSDN知识库收录)
+- 技术博客:[WQC_CSDN](http://blog.csdn.net/wqc_csdn)(访问量30000+，多篇文章被CSDN知识库收录)
 
 ---
 
