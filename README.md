@@ -7,14 +7,8 @@
 -  技术博客:[WQC_CSDN](http://blog.csdn.net/wqc_csdn)(访问量37000+，多篇文章被CSDN知识库收录)
 -  Git-Hub地址:[weiqingcai](https://github.com/weiqingcai)(参与[LearningNotes](https://github.com/weiqingcai/LearningNotes)开源项目)
 
-<<<<<<< HEAD
 
-=======
-----
->>>>>>> origin/master
-
-
-##项目经验**
+##**项目经验**
 
 ###**萧帮主 2016.7-2016.9 Android主程**（内测运营，注册人数500+）
 
@@ -42,20 +36,14 @@
 
 3. 自定义实现ImageLoader，使用LruCache+DiskLruCache完成图片的三级缓存
 
-<<<<<<< HEAD
-
-
-#专业技能**
-
-=======
---------
 
 #**专业技能**
->>>>>>> origin/master
+
+#**专业技能**
+
 - **Java**
   - 熟练使用Java编程，理解面向对象编程，了解常见的数据结构
   - 了解单例模式，观察者模式，适配器模式等基础的设计模式
-
 
 - **Android**
   - 熟练Android四大组件，常见基础控件，自定义View和View的事件分发机制
@@ -70,16 +58,7 @@
   - 了解前端HTML+CSS3+JavaScript技术
   - 良好的英语阅读能力，通过英语四级
 
-<<<<<<< HEAD
-
-
-
-# **实习经验**
-=======
-----
-
 #**实习经验**
->>>>>>> origin/master
 
 ###**2016.7-2016.10 黑白小生科技 Android研发**
 在该初创型公司中主要负责萧帮主Android客户端功能模块的研讨和开发，同时熟悉商业开发流程，熟悉多人协作开发规范
@@ -87,11 +66,7 @@
 ###**2014.8-2016.3 Android创新实验室 成员**
 定期参与实验室内的技术交流活动，同时负责为实验室新成员讲解Java，Android基础知识
 
-<<<<<<< HEAD
-=======
-----
 
->>>>>>> origin/master
 #**获奖情况**
 
 
