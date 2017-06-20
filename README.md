@@ -4,7 +4,7 @@
 -  本科/中北大学/网络工程
 -  手机:18435138623
 -  Email:wqc_work@163.com
--  技术博客:[WQC_CSDN](http://blog.csdn.net/wqc_csdn)(访问量37000+，多篇文章被CSDN知识库收录)
+-  技术博客:[WQC_CSDN](http://blog.csdn.net/wqc_csdn)(访问量50000+，多篇文章被CSDN知识库收录)
 -  Git-Hub地址:[weiqingcai](https://github.com/weiqingcai)(参与[LearningNotes](https://github.com/weiqingcai/LearningNotes)开源项目)
 
 
