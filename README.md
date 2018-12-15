@@ -1,12 +1,12 @@
 # **现已停止求职**
+
 ## **个人信息**
 
--  卫清才/男
--  研究生（在读）/中北大学/计算机科学与技术（网络安全方向）
--  Email:wqc_work@163.com
--  技术博客:[WQC_CSDN](http://blog.csdn.net/wqc_csdn)(访问量90000+，多篇文章被CSDN知识库收录)
--  Git-Hub地址:[weiqingcai](https://github.com/weiqingcai)(参与[LearningNotes](https://github.com/francistao/LearningNotes)开源项目)
-
+- 卫清才/男
+- 研究生（在读）/中北大学/计算机科学与技术（网络安全方向）
+- Email:wqc_work@163.com
+- 技术博客:[WQC_CSDN](http://blog.csdn.net/wqc_csdn)(访问量90000+，多篇文章被CSDN知识库收录)
+- Git-Hub地址:[weiqingcai](https://github.com/weiqingcai)(参与[LearningNotes](https://github.com/francistao/LearningNotes)开源项目)
 
 ## **项目经验**
 
@@ -14,17 +14,17 @@
 
 [APP下载地址](http://fir.im/xbz)
 
-1.  一款校园信息服务类APP(二手交易，代取快递，校园活动门票等)，已成为本校迎新晚会合作平台
-2.  采用MVP架构，使用Retrofit+Picaso+GreenDao等开源框架
-3.  自定义实现了首页的顶部轮播图和底部的导航栏的上滑显示，下滑隐藏特性
+1. 一款校园信息服务类APP(二手交易，代取快递，校园活动门票等)，已成为本校迎新晚会合作平台
+2. 采用MVP架构，使用Retrofit+Picaso+GreenDao等开源框架
+3. 自定义实现了首页的顶部轮播图和底部的导航栏的上滑显示，下滑隐藏特性
 
 ### **无线测量 2015.12-2016.3 Android主程**（已投入工地试运行）
 
-1.  一款用于实时监测吊车吊钩倾角的硬件+APP产品（倾角实时监测及绘制，语音播报数据等）
+1. 一款用于实时监测吊车吊钩倾角的硬件+APP产品（倾角实时监测及绘制，语音播报数据等）
 
-2.  通过监听系统广播，实现了蓝牙PIN码的匹配，同时自定义了通讯协议，完成数据包的封装解析
+2. 通过监听系统广播，实现了蓝牙PIN码的匹配，同时自定义了通讯协议，完成数据包的封装解析
 
-3.  使用自定义 SurfaceView展示倾角状态，通过Handler+Looper+MessageQueue完成线程间通讯
+3. 使用自定义 SurfaceView展示倾角状态，通过Handler+Looper+MessageQueue完成线程间通讯
 
 ### **同窗 2015.7-2015.10 Android主程**
 
@@ -35,7 +35,6 @@
 2. 负责整个框架的搭建，使用TabHost+ViewPager+Fragment、SlidingMenu实现APP主体页面布局
 
 3. 自定义实现ImageLoader，使用LruCache+DiskLruCache完成图片的三级缓存
-
 
 ## **专业技能**
 
@@ -59,17 +58,16 @@
 ## **实习经验**
 
 ### **2016.7-2016.10 黑白小生科技 Android研发**
+
 在该初创型公司中主要负责萧帮主Android客户端功能模块的研讨和开发，同时熟悉商业开发流程，熟悉多人协作开发规范
 
 ### **2014.8-2016.3 Android创新实验室 成员**
-定期参与实验室内的技术交流活动，同时负责为实验室新成员讲解Java，Android基础知识
 
+定期参与实验室内的技术交流活动，同时负责为实验室新成员讲解Java，Android基础知识
 
 ## **获奖情况**
 
-
-
--  思科网络工程师认证（CCNA）
--  2016.5 单项奖学金，综合素质三等奖学金两次
--  2015.12 华北五省计算机应用大赛全国三等奖
--  2014.11 校级综合素质奖学金
+- 思科网络工程师认证（CCNA）
+- 2016.5 单项奖学金，综合素质三等奖学金两次
+- 2015.12 华北五省计算机应用大赛全国三等奖
+- 2014.11 校级综合素质奖学金
