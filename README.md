@@ -3,9 +3,9 @@
 ## **个人信息**
 
 - 卫清才/男
-- 研究生（在读）/中北大学/计算机科学与技术（网络安全方向）
+- 研究生（在读）/中北大学/计算机科学与技术（网络安全，僵尸网络，大数据分析）
 - Email:wqc_work@163.com
-- 技术博客:[WQC_CSDN](http://blog.csdn.net/wqc_csdn)(访问量90000+，多篇文章被CSDN知识库收录)
+- 技术博客:[WQC_CSDN](wei-qing-cai.blog.csdn.net)(访问量14w+，多篇文章被CSDN知识库收录)
 - Git-Hub地址:[weiqingcai](https://github.com/weiqingcai)(参与[LearningNotes](https://github.com/francistao/LearningNotes)开源项目)
 
 ## **项目经验**
