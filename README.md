@@ -1,6 +1,6 @@
 ###  **个人信息**
 
-- 卫清才/男/18435138623/wqc_work@163.com
+- 卫清才/男/wqc_work@163.com
 - 硕士研究生/中北大学/计算机科学与技术/通过CET-6
 - 技术博客：[wqc_csdn](https://wei-qing-cai.blog.csdn.net/)/Git-Hub地址：[weiqingcai](https://github.com/weiqingcai)
 
